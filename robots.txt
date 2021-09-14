@@ -1,0 +1,12 @@
+User-Agent: *
+Disallow: /admin/
+Disallow: /admin/index.php
+Allow: /admin/user_images
+
+
+
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /admin/index.php
+Allow: /wp-admin/admin-ajax.php
+Allow: /admin/user_images
